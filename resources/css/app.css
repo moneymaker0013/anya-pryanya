@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+
+}
+header{
+    background-color: #3CB371 !important;
+}
+.postcard {
+    max-width: 350px;
+    margin: 50px auto 0;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #293048;
+    color: #293048;
+ }
+ .form-row {
+    margin-bottom: 15px;
+ }
+ .form-row input,  .form-row select{
+    width: 100%;
+    padding: 0 10px;
+    line-height: 35px;
+    outline: none;
+    border-color: #e6e2c3;
+    border-radius: 10px;
+    font-family: 'Playfair Display';
+ }
+button{
+    cursor: pointer;
+    font-size: 13px;
+ }
+button{
+    background-color: #293048;
+}
+.error {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
